@@ -1,2 +1,4 @@
 # minigame-in-C
-Command line based snakes and ladders game
+
+Creating the 'Snakes and Ladders' mini-game in a terminal version written in C.  
+Includes single player and multiplayer.
